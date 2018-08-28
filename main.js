@@ -58,3 +58,10 @@ const quote = 'winter is coming';
 const newQuote = quote.replace(/is/g, "ain't");
 console.log('newQuote', newQuote);
 
+// objects
+const fancyObject = {};
+
+fancyObject.color = 'red'; //dot notation
+fancyObject['number'] = 10; //bracket notations
+HTMLFormControlsCollection.l
+console.log ('fancyObject', fancyObject);
